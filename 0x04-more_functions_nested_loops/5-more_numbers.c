@@ -17,7 +17,7 @@ void more_numbers(void)
 		a = '0';
 		while (a <= '9')
 		{
-			_putchar(a);
+		_putchar(a);
 			a++;
 		}
 		b = '0';
