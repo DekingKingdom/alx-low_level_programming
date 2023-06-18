@@ -1,2 +1,1 @@
-# alx-low_level_programming
-Mastering the C language
+This Repository contains function codes on The C programming Language
